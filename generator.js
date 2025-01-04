@@ -11,7 +11,6 @@ length_lists.addEventListener('click',(e)=>{
     length = parseInt(e.currentTarget.value, 10)
 })
 
-
 button.addEventListener('click',(e)=>{
     let newPassword = "";
     if(lowerCases.checked){
@@ -52,6 +51,5 @@ button.addEventListener('click',(e)=>{
 
     }    
     error()
-
 }
 )

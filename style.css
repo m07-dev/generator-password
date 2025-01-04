@@ -1,0 +1,71 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    
+}
+body {
+    font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+    background-color: #24231F;
+}
+.title{
+    align-items: end;
+    height: 200px;
+}
+h1{
+    color: #E8E2D9;
+    font-weight: bolder;
+}
+.main{
+    background-color: #24231F;
+    height: 500px;
+    width: 750px;
+    border-radius: 20px;
+    box-shadow: 0 5px 10px rgba(154,160,185,.05), 0 15px 40px rgba(166,173,201,.2);
+}
+.bar{
+    height: 50px;
+}
+
+.pw-length{
+    height: 100px;
+}
+.form-select{
+    width: 350px;
+    height: 50px;
+}
+.form-check-label{
+    color:white
+}
+.check{
+    height: 50px;
+    font-size: larger;
+    font-weight: bold;
+}
+.card2{
+    height: 390px;
+
+}
+
+.main2{
+    background-color: white;
+    height: 100px;
+    width: 400px;
+    border-radius: 20px;
+    margin-left: 20px;
+}
+.card3{
+    height: 100px;
+}
+.card4{
+    margin-left: 6px;
+}
+.btn{
+    height: 50px;
+    width: 200px;
+
+}   
+
+.wrapper{
+    font-size: 25px;
+    font-weight: bolder;
+}
